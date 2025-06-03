@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/6f23353796bc0b0e92b20.jpg" width="100%">
+<img src="like.jpg" width="100%">
 
 # Like Button
 
@@ -11,5 +11,4 @@ The Like button is now also used by other social media platforms like YouTube, G
 
 ## ╔═━「 Creator Info 」
 
-+ [Rachit-Pal](https://github.com/Rachit-Pal) : CREATOR
-+ [Straw Hat](https://github.com/StrawhatNetwork) : NETWORK
++ [Nabin](https://nabie.netlify.app) : CREATOR
